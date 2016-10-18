@@ -6,19 +6,13 @@ date: 2016-10-19
 comments: false
 ---
     
-<center><a href="http://www.ltxwmh.net"><b>LtxWmh</b></a> is WMH's personal webpage.</center>
+<center><a href="http://www.ltxwmh.net"><b>LtxWmh</b></a> is wmh's personal webpage.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Content
+* Daily Record
+* Codes
+* Syntax
+* Thinking
 
 ## Author Infomation
 
