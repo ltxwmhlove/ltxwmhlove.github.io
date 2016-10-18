@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome!"
+title: "Hello World!"
 date: 2016-10-17
 excerpt: "Just so glad U can come here."
 tags: [WELCOME]
