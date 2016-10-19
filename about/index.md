@@ -6,7 +6,7 @@ date: 2016-10-19
 comments: false
 ---
     
-<center><a href="http://www.ltxwmh.net"><b>LtxWmh</b></a> is wmh's personal webpage.</center>
+<center><a href="http://www.ltxwmh.net"><b>LtxWmh</b></a> is wmh's personal website.</center>
 
 ## Content
 * Daily Record
