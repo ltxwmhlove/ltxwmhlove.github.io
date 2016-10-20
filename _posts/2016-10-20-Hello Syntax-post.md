@@ -35,7 +35,7 @@ int main()
 
 那就再测试一下长代码吧。
 
-###单词翻转
+### 单词翻转
 
 大概效果是输入I love you，输出you love I.
 
@@ -77,3 +77,6 @@ int main(int argc,char *argv[])
 
 {% endhighlight %}
 
+就这样水一篇吧。
+
+顺便改了一下默认的CSS样式，也不算全水吧。
