@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Shame."
-date: 2016-10-21.
-excerpt: "NBA2K12"
+date: 2016-10-24.
+excerpt: "TED Speech"
 tags: [Ted_Speech]
 comments: true
 ---
