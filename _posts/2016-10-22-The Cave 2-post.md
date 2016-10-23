@@ -35,9 +35,12 @@ comments: true
 
 #### INNOCENT
 
-不知道你们有没有想到选择人物时的那句话。
+<figure>
+	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=9d1b08618435e5dd902ca5d746c7a7f5/af994b59252dd42afaede998023b5bb5c8eab855.jpg">
+	<figcaption>The Twins.</figcaption>
+</figure>
 
-是不是有些毛骨悚然了。
+不知道你们有没有想到选择人物时的那句话。
 
 最终，为了能通关，我还是去做了。
 
@@ -51,3 +54,14 @@ comments: true
 
 我再也不愿去想这个问题。
 
+#### 至于游戏的Happy Ending 和 Bad Ending. 我只会放出Happy Ending的漫画。没有原因。
+
+
+<figure>
+	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=8ff103c750da81cb4ee683c56267d0a4/b74543a98226cffc3c885481b8014a90f603ea67.jpg">
+</figure>
+
+<figure>
+	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=4bb0edf9838ba61edfeec827713497cc/db7f57d98d1001e9c384ff3cb90e7bec55e797f9.jpg">
+	<figcaption>Happy Ending.</figcaption>
+</figure>
