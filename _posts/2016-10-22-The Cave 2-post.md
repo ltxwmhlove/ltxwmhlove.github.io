@@ -9,6 +9,11 @@ comments: true
 
 ### The Twins
 
+<figure>
+	<img src="http://a2.qpic.cn/psb?/V13xh4tX4TQAx7/nkrJMDAD6nQf*OauBOHrLH4regJ1DyJd*J8HLn9v5CM!/b/dOUAAAAAAAAA&bo=JAJBAQAAAAADB0Q!&rf=viewer_4">
+	<figcaption>The Twins.</figcaption>
+</figure>
+
 #### They just want to go outside and play, what could be more INNOCENT than that?
 
 选择人物的时候，每选定一个，旁白都会有一句简单的介绍。这就是双子的介绍。
@@ -48,3 +53,14 @@ comments: true
 人性本恶，还是本善。
 
 我再也不愿去想这个问题。
+
+####对于所有的人物，我都只会放出Happy Ending. 没有原因。
+
+<figure>
+	<img src="http://a3.qpic.cn/psb?/V13xh4tX4TQAx7/gpvuvIZp90ABh52IRD6C3YSKhEes2FXjvmsYM8k4.tE!/b/dAoBAAAAAAAA&bo=IwJGAQAAAAADAEM!&rf=viewer_4">
+</figure>
+
+<figure>
+	<img src="http://a3.qpic.cn/psb?/V13xh4tX4TQAx7/YSvdRu6lqk4*f8UCggNMTn6frTYBUzKV179Y*JKeAyY!/b/dI8AAAAAAAAA&bo=HwI7AQAAAAADAAI!&rf=viewer_4">
+	<figcaption>Happy Ending.</figcaption>
+</figure>
