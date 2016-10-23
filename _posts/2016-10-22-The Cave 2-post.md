@@ -9,11 +9,6 @@ comments: true
 
 ### The Twins
 
-<figure>
-	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=ab681012738b4710ce2ffdc4f3cfc3b2/e5a5d6faaf51f3dea546515795eef01f3b297944.jpg">
-	<figcaption>The Twins.</figcaption>
-</figure>
-
 #### They just want to go outside and play, what could be more INNOCENT than that?
 
 选择人物的时候，每选定一个，旁白都会有一句简单的介绍。这就是双子的介绍。
@@ -40,11 +35,6 @@ comments: true
 
 #### INNOCENT
 
-<figure>
-	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=cd41093c8694a4c20a23e7233ef51bac/984db225bc315c602f6183dc8cb1cb1348547744.jpg">
-	<figcaption>Posion</figcaption>
-</figure>
-
 不知道你们有没有想到选择人物时的那句话。
 
 最终，为了能通关，我还是去做了。
@@ -58,15 +48,3 @@ comments: true
 人性本恶，还是本善。
 
 我再也不愿去想这个问题。
-
-#### 至于游戏的Happy Ending 和 Bad Ending. 我只会放出Happy Ending的漫画。没有原因。
-
-
-<figure>
-	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=8ff103c750da81cb4ee683c56267d0a4/31e72223dd54564eb0c70f0ab2de9c82d0584f92.jpg">
-</figure>
-
-<figure>
-	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=4bb0edf9838ba61edfeec827713497cc/db7f57d98d1001e9c384ff3cb90e7bec55e797f9.jpg">
-	<figcaption>Happy Ending.</figcaption>
-</figure>
