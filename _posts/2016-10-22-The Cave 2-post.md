@@ -9,6 +9,11 @@ comments: true
 
 ### The Twins
 
+<figure>
+	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=ab681012738b4710ce2ffdc4f3cfc3b2/e5a5d6faaf51f3dea546515795eef01f3b297944.jpg">
+	<figcaption>The Twins.</figcaption>
+</figure>
+
 #### They just want to go outside and play, what could be more INNOCENT than that?
 
 选择人物的时候，每选定一个，旁白都会有一句简单的介绍。这就是双子的介绍。
@@ -36,8 +41,8 @@ comments: true
 #### INNOCENT
 
 <figure>
-	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=9d1b08618435e5dd902ca5d746c7a7f5/af994b59252dd42afaede998023b5bb5c8eab855.jpg">
-	<figcaption>The Twins.</figcaption>
+	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=cd41093c8694a4c20a23e7233ef51bac/984db225bc315c602f6183dc8cb1cb1348547744.jpg">
+	<figcaption>Posion</figcaption>
 </figure>
 
 不知道你们有没有想到选择人物时的那句话。
@@ -58,7 +63,7 @@ comments: true
 
 
 <figure>
-	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=8ff103c750da81cb4ee683c56267d0a4/b74543a98226cffc3c885481b8014a90f603ea67.jpg">
+	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=8ff103c750da81cb4ee683c56267d0a4/31e72223dd54564eb0c70f0ab2de9c82d0584f92.jpg">
 </figure>
 
 <figure>
