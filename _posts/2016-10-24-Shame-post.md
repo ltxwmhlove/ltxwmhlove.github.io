@@ -13,7 +13,7 @@ comments: true
 
 TED演讲的人，各有各的风格。作为一次十五分钟的长演讲，刚开始给人的感觉好像是有很多废话。（虽然我不这么想）但当真正进入正题之后，演说家的感情足以打动人，而她所说的内容则更是精彩。
 
-<iframe width="750" height="500" src="//open.163.com/movie/2012/5/U/L/M8RBM9O8F_M8RBNCRUL.html" frameborder="0"> </iframe>
+<iframe width="680" height="500" src="//open.163.com/movie/2012/5/U/L/M8RBM9O8F_M8RBNCRUL.html" frameborder="0"> </iframe>
 
 以下是我自己印象较深的内容。
 
