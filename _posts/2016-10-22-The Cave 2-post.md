@@ -15,6 +15,11 @@ comments: true
 
 双子是一对双胞胎，出生在一个幸福的家庭。有一对爱他们的父母。
 
+<figure>
+	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=ab681012738b4710ce2ffdc4f3cfc3b2/e5a5d6faaf51f3dea546515795eef01f3b297944.jpg">
+	<figcaption>The Twins.</figcaption>
+</figure>
+
 但他们想要的是自由。
 
 #### 今天，长沙下雨了。我突然回想起双子专属剧情的场景，那是一个伦敦的雨天。
@@ -26,12 +31,6 @@ comments: true
 然后，我在地下室发现了一包老鼠药。
 
 母亲正在熬汤，为晚饭做着最后的准备。
-
-<figure>
-	<img src="http://a2.qpic.cn/psb?/V13xh4tX4TQAx7/nkrJMDAD6nQf*OauBOHrLH4regJ1DyJd*J8HLn9v5CM!/b/dOUAAAAAAAAA&bo=JAJBAQAAAAADB0Q!&rf=viewer_4">
-	<figcaption>The Twins.</figcaption>
-</figure>
-
 
 一切仿佛都已经很清晰了。我突然明白了该如何通关。但我停了好久好久。
 
@@ -47,9 +46,9 @@ comments: true
 
 父母倒在了餐桌上，而他们，自由了。
 
-我不记得通关时旁白具体说了什么，但是大概的意思是：
+#### That's why I never have kids.
 
-#### 你是不是觉得有些毛骨悚然呢，特别是，如果你也是几个孩子的父母。
+旁白总是那么及时。
 
 人性本恶，还是本善。
 
@@ -58,10 +57,10 @@ comments: true
 #### 对于所有的人物，我都只会放出Happy Ending. 没有原因。
 
 <figure>
-	<img src="http://a3.qpic.cn/psb?/V13xh4tX4TQAx7/gpvuvIZp90ABh52IRD6C3YSKhEes2FXjvmsYM8k4.tE!/b/dAoBAAAAAAAA&bo=IwJGAQAAAAADAEM!&rf=viewer_4">
+	<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=8ff103c750da81cb4ee683c56267d0a4/31e72223dd54564eb0c70f0ab2de9c82d0584f92.jpg">
 </figure>
 
 <figure>
-	<img src="http://a3.qpic.cn/psb?/V13xh4tX4TQAx7/YSvdRu6lqk4*f8UCggNMTn6frTYBUzKV179Y*JKeAyY!/b/dI8AAAAAAAAA&bo=HwI7AQAAAAADAAI!&rf=viewer_4">
+	<img src="http://imgsrc.baidu.com/forum/pic/item/db7f57d98d1001e9c384ff3cb90e7bec55e797f9.jpg">
 	<figcaption>Happy Ending.</figcaption>
 </figure>
