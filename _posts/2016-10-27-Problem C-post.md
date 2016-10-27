@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Problem C Data Insight"
-date: 2016-10-17
+date: 2016-10-27
 excerpt: "MCM"
 tags: [Translation]
 comments: true
