@@ -11,6 +11,8 @@ comments: true
 
 稍微有些经验的人，应该都会想到字符串吧。
 
+### 简单的奇偶判断
+
 {% highlight c++ %}
 #include <stdio.h>
 #include <iostream>
@@ -30,6 +32,10 @@ int main()
 	return 0;
 }
 {% endhighlight %}
+
+### 数据较大时的奇偶判断。
+
+#### 思想就是求最后一位数能否被2整除。
 
 {% highlight c++ %}
 #include<stdio.h>
