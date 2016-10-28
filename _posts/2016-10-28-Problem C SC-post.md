@@ -7,9 +7,9 @@ tags: [Translation]
 comments: true
 ---
 
-#### 原文<a href="http://www.ltxwmh.net/Problem-C-post/">见此处。</a>
+#### 原文<a href="http://www.ltxwmh.net/Problem-C-post/">见此处</a>。
 
-#### Problem C SChinese
+### Problem C SChinese
 
 2016年的MCM引入了一个新的建模题型————问题C————或者更详细地说，数据新视野。问题C集中关注在数学建模中与数据相关的内容。从这个意义上来说，与过去相比，在数学建模大赛过程中，关于数据和图形分类的技巧会起到更关键的作用。
 
