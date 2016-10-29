@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge Odd or Even.
+title: "Judge Odd or Even."
 date: 2016-10-26
 excerpt: "Even And Odd"
 tags: [C++]
