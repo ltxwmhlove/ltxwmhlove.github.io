@@ -2,7 +2,7 @@
 layout: post
 title: "Year 2011 MCM 7011 Abstract"
 date: 2016-10-29
-excerpt: "MCM"
+excerpt: "MCM Abstract"
 tags: [Translation]
 comments: true
 ---
