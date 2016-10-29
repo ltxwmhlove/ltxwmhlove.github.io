@@ -3,7 +3,7 @@ layout: post
 title: "Road Trip-Darin"
 date: 2016-10-23.
 excerpt: "I have to follow my intuition, make a decision."
-tags: [Music.]
+tags: [Music]
 comments: true
 ---
 

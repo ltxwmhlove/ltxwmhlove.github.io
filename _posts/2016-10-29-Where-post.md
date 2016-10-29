@@ -3,7 +3,7 @@ layout: post
 title: "WhereTheTreesMeetTheFreeway-Bones"
 date: 2016-10-29.
 excerpt: "Missing U."
-tags: [Music.]
+tags: [Music]
 comments: true
 ---
 
