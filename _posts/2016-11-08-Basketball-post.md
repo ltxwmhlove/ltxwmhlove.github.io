@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curry Zone!
-date: 2013-08-16
+date: 2016-11-08
 excerpt: "For The Record! Good! "
 tags: [SPECIAL]
 comments: true
